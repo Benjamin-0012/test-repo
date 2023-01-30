@@ -1,3 +1,1 @@
-# test-repo Updated
-
-This file was updated
+# test-repo
